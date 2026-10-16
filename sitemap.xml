@@ -1,16 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://amani.love/</loc>
-  <lastmod>2026-03-30T01:28:08+00:00</lastmod>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
-
-
+<url>
+  <loc>https://amani.love/articles/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-lyrics-meaning/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-nakupenda-meaning/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/why-amani-peace-song/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-creation-background/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-mv-analysis/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-arrangement/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-vs-glorious-days/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-live-vs-studio/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-covers/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-guitar-harmony/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-antiwar-songs/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-concert-essentials/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-hidden-gems/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/wong-ka-kui-quotes/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-patriotism-lyrics/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/wong-ka-kui-philosophy/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-history/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/beyond-after-1993/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/wong-ka-kui-legacy/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://amani.love/articles/amani-90s-hk-music/</loc>
+  <lastmod>2026-10-15</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
 </urlset>
